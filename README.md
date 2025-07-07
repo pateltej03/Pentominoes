@@ -55,6 +55,19 @@ This project follows a component-based architecture with MVVM-like logic separat
 
 ---
 
+## 📸 Demonstration
+
+**🧩 Snapping and Rotating Pieces**  
+<img src="./Pentominoes_1.gif" width="400">
+
+**🤖 Solve Feature on Selected Puzzle**  
+<img src="./Pentominoes_2.gif" width="400">
+
+**🧠 Auto-Solve for All Puzzle Variants**  
+<img src="./Pentominoes_3.gif" width="400">
+
+---
+
 ## 🧠 Let’s Connect!
 
 **Tej Jaideep Patel**  
